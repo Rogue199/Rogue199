@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aebb1
-- 👀 I’m interested in being a Unicorn Developer
+- 🦄 I’m interested in being a Unicorn Developer
 - 🌱 I’m currently learning ...
 
 <!---
